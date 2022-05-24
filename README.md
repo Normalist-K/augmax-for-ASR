@@ -2,6 +2,9 @@
 
 This project is based on [robust speech](https://github.com/RaphaelOlivier/robust_speech) led by [Raphael Olivier](https://raphaelolivier.github.io) under the supervision of Prof. Bhiksha Raj.
 
+See [video Link](https://youtu.be/20fBSTEkO0w) for a video presentation of our work
+See [here](https://drive.google.com/drive/folders/1uRYPP_nYhg-MZ3mkAx2W1GlquiV5aePs?usp=sharing) for some of our generated adversarial samples.
+
 ## Usage
 ```
 # Before running code, please download LibriSpeech data in the `root/data` folder 
